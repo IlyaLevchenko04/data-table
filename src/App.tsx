@@ -1,4 +1,3 @@
-import React from "react";
 import Controls from "./components/Controls";
 import Table from "./components/Table";
 
