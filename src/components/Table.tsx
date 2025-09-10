@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import TableRow from "./TableRow";
 import { useMatrix } from "../hooks/useMatrix";
 

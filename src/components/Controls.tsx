@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { useMatrix } from "../hooks/useMatrix";
 
 export default function Controls() {
